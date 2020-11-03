@@ -13,7 +13,7 @@ From the question above the task involved writing a program to get the square ro
 
 Reference: https://realpython.com/python-square-root-function/
 
-To calculate the sqrt rot of a number to a certain number of decimal places the function getcontext() can be used to set the value from defulat 28 decimal to the desired number of decimal places in this case 100
+To calculate the sqrt root of a number to a certain number of decimal places the function getcontext() can be used to set the value from defulat 28 decimal to the desired number of decimal places in this case 100
 
 https://www.geeksforgeeks.org/setting-precision-in-python-using-decimal-module/amp/?ref=rp
 
